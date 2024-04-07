@@ -9,7 +9,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Talha Khan",
+  "author": "Abdur Rehman",
   "license": "MIT",
   "dependencies": {
     "inquirer": "^9.2.17"
